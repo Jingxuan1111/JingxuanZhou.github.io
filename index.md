@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# **Jingxuan Zhou**
+## Email: zjx80028003@ucla.edu
+## telephone: (424)-535-7908
+## address: 11070 strathmore drive, apt 19. CA 90024
 
-You can use the [editor on GitHub](https://github.com/Jingxuan1111/JingxuanZhou.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# **Biography**
+### I am currently a master student in Biomolecular-material Interface group, department of Materials Science & Engineering, University of California. My advisor is Yuhuang and the group link is < http://yhuang.seas.ucla.edu/Research/ >. I received my B.Eng.Degree from Xian Jiao Tong University (XJTU), under the supervision of [Prof.Hongjie Wang](http://mse-en.xjtu.edu.cn/en/people_show.php?id=4388) and a B.Sci.Degree of Economics as the second major.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Motto
+## 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jingxuan1111/JingxuanZhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Experimental Skills
+# 
